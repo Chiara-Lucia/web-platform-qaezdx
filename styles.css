@@ -1,0 +1,57 @@
+:root {
+  --maincolor: #f7efff;
+  --IIcolor: #d7b1fe;
+  --IIIcolor: #bf84fc;
+  --IVcolor: #aa5df8;
+  --Vcolor: #9237ee;
+}
+
+#sfondo {
+  width: 100%;
+  height: 100%;
+}
+
+#sfondo img {
+  width: 100%;
+  height: 100%;
+}
+
+.bgbody {
+  background-image: url('/bg.png');
+  background-size: cover;
+}
+
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-color {
+  color: rgb(115, 110, 110);
+}
+
+.green {
+  color: #2dce89;
+}
+
+.bg1 {
+  background-color: #2dce88;
+}
+
+.bg2 {
+  background-image: linear-gradient(
+    to bottom,
+    #2dce88,
+    #2dce88,
+    #2dce887f,
+    #2dce89,
+    #2dce89
+  );
+}
+
+.dimensioni {
+  height: 60%;
+}
+
+.dimensioni2 {
+  height: 120%;
+}
